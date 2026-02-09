@@ -1,4 +1,3 @@
-````markdown
 # 💖 CUK Commit — From Campus to Connection
 
 **CUK Commit** is a university-focused social matching platform built for students of **Central University of Karnataka (CUK)**.  
@@ -73,7 +72,7 @@ lib/
 └── main.dart
 ````
 
----
+
 
 ## 🔄 App Flow
 
@@ -164,7 +163,6 @@ Unauthorized copying, modification, distribution, or reuse is prohibited.
 ---
 
 
-
 ## 👥 Team Members
 
 | Profile | Name |
@@ -173,5 +171,3 @@ Unauthorized copying, modification, distribution, or reuse is prohibited.
 | <img src="https://github.com/Droid-DevX.png" width="80" height="80" style="border-radius:50%"/> | **[Ayush Tandon](https://github.com/Droid-DevX)** <br/>
 | <img src="https://github.com/abhaydwived.png" width="80" height="80" style="border-radius:50%"/> | **[Abhay Dwivedi](https://github.com/abhaydwived)** <br/> 
 ---
-```
-```
