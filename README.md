@@ -7,6 +7,27 @@ It is designed to encourage **meaningful interactions** — relationships, frien
 
 ---
 
+
+## 🎥 Demo
+
+A walkthrough of the app’s core flow and features is available below:
+
+**Demo Video:**
+
+
+https://github.com/user-attachments/assets/fc0dc4ab-6eb7-4b5b-af38-8c8a727ea8da
+
+
+This demo covers:
+
+* Authentication flow
+* Onboarding process
+* Profile setup & photo upload
+* Discovery interface structure
+
+---
+
+
 ## ✨ Key Features
 
 ### 🔐 Authentication
